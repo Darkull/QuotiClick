@@ -24,13 +24,16 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size (Responsive Design)
 - See hover states for interactive elements
+- Click buttons to generate new quotes.
 
 ### Screenshot
 
 - Random Quote Generator Desktop View
-  ![Comonent Design NFT Preview Card View]()
+  ![PC View](https://i.imgur.com/de1Byjt.png)
 - Mobile View
-  ![Hovered View]()
+  ![Mobile View](https://i.imgur.com/k0RgAEO.png)
+- Hovered View
+  ![Hovered View](https://i.imgur.com/O269cH4.gif)
 
 ### Links
 
@@ -48,6 +51,7 @@ Users should be able to:
 - Desktop-first workflow
 - Media Queries
 - Responsive Unit
+- Quote Generator API
 
 ## Author
 
