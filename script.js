@@ -1,7 +1,11 @@
 "use strict";
 
 document.addEventListener("DOMContentLoaded", () => {
-  const button = document.querySelector(".btn-quote");
+  const buttonLeft = document.querySelector(".btn--left");
+  const buttonRight = document.querySelector(".btn--right");
+  const buttonTopLeft = document.querySelector(".quote-type--1");
+  const buttonTopRight = document.querySelector(".quote-type--2");
+
   const quote = document.querySelector(".main-quote");
   const author = document.querySelector("h1");
 
@@ -17,7 +21,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  button.addEventListener("click", updateQuote);
+  buttonLeft.addEventListener("click", updateQuote);
+  buttonRight.addEventListener("click", updateQuote);
+  buttonRight.addEventListener("click", updateQuote);
+  buttonTopLeft.addEventListener("click", updateQuote);
+  buttonTopRight.addEventListener("click", updateQuote);
 
   updateQuote();
 });
