@@ -1,4 +1,4 @@
-# Random Quote Generator
+# QuotiClick
 
 Random Quote Generator
 
