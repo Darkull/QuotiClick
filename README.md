@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-Random Quote Generator Desktop View
-![PC View](https://i.imgur.com/de1Byjt.png)
-Mobile View
-![Mobile View](https://i.imgur.com/k0RgAEO.png)
-Hovered View
-![Hovered View](https://i.imgur.com/O269cH4.gif)
+- Random Quote Generator Desktop View
+  ![PC View](https://i.imgur.com/de1Byjt.png)
+- Mobile View
+  ![Mobile View](https://i.imgur.com/k0RgAEO.png)
+- Hovered View
+  ![Hovered View](https://i.imgur.com/O269cH4.gif)
 
 ### Links
 
